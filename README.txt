@@ -1,0 +1,1 @@
+Interfaz de escritorio para control de inversiones.
